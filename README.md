@@ -1,4 +1,4 @@
-# Future_DS_02
+image.png# Future_DS_02
 # Customer Churn Analysis Dashboard
 
 ## Project Overview
