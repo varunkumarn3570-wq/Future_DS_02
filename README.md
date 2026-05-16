@@ -34,7 +34,7 @@ The main objective of this project is to:
 - Short-tenure customers contribute significantly to overall churn.
 
 ## Project Screenshot
-image.png
+(/.image.png)
 
 ## Learning Outcome
 Through this project, I improved my skills in:
